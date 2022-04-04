@@ -3,11 +3,11 @@
 <p align="center">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Rohan Sikder  <a href="https://github.com/rohansikder">@RohanSikder:octocat:</a> Student Atlantic Technological University Galway Campus
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder:octocat:</a> Student Atlantic Technological University Galway Campus
   </samp>
 </p>
 
-<img align="center" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+<img width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
  ## :trophy: Languages and Tools: :robot:
 
