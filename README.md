@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="center">
- ## :trophy: Languages and Tools: :robot:
+   :trophy: Languages and Tools: :robot:
 </p>   
 
 <p align="center">
