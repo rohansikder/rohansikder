@@ -1,9 +1,10 @@
 <p align="center">
-  <br><br>
   <samp>
     Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder:octocat:</a> Student Atlantic Technological University Galway Campus
   </samp>
 </p>
+
+<br><br>
 
 <p align="center">
 <img width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
