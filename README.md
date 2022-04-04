@@ -1,5 +1,3 @@
-<html align="center">
-
 <p align="center">
   <samp>
     Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder:octocat:</a> Student at Atlantic Technological University Galway Campus
@@ -25,4 +23,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rohansikder&&theme=bear&show_icons=true) <br><br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&layout=compact&theme=bear&show_icons=true)](https://github.com/rohansikder/github-readme-stats)
 
-</html>
+
