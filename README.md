@@ -7,12 +7,9 @@
   </samp>
 </p>
 
-<br><br>
-
 <p align="center">
 <img width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </p>
-
 
 <p align="center">
  ## :trophy: Languages and Tools: :robot:
