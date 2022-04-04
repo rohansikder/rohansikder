@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder:octocat:</a> Student Atlantic Technological University Galway Campus
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder:octocat:</a> Student at Atlantic Technological University Galway Campus
   </samp>
 </p>
 
