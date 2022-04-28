@@ -25,3 +25,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=rohansikder&&theme=bear&show_icons=true" />
 </p>
 
+<p align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&layout=compact&theme=bear&show_icons=true" />
+</p>
