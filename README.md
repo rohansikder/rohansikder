@@ -25,4 +25,4 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=rohansikder&&theme=bear&show_icons=true" />
 </p>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&layout=compact&theme=bear&show_icons=true)](https://github.com/rohansikder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&layout=compact&theme=bear&show_icons=true)](https://github.com/rohansikder/github-readme-stats)
