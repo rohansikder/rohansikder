@@ -22,10 +22,9 @@
 </p>
 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=rohansikder&&theme=bear&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=rohansikder&show_icons=true&theme=bear" />
 </p>
 
-<a href="https://github.com/rohansikder/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&layout=compact&theme=bear&show_icons=true" />
-</a>
-
+<p align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&theme=bear&layout=compact" />
+</p>
