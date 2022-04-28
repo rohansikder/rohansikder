@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=rohansikder&show_icons=true&theme=bear" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rohansikder&show_icons=true&theme=bear" />
 </p>
 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&theme=bear&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansikder&theme=bear&layout=compact" />
 </p>
