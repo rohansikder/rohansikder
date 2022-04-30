@@ -1,17 +1,24 @@
 <p align="center">
+    <samp>
+      Hi, <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> my name is  Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder :octocat:</a> A Student at Atlantic Technological University Galway Campus studying Software Development.
+    </samp>
+  </p>
+  
+  <hr>
+  
+<p align="center">
   <samp>
-    Hi, <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> my name is  Rohan Sikder  <a href="https://github.com/rohansikder"> @RohanSikder :octocat:</a> A Student at Atlantic Technological University Galway Campus studying Software Development.
-  </samp>
+    Feel free to check out my Learning Repo :mag: at https://github.com/LearnWithRohanSikder, Here you can find some of the Tools and Languages I am currently learning and testing.:mortar_board:
+  </samp> 
 </p>
 
-<br><br>
+
 
 <p align="center">
 <img width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </p>
 
-
-<br><br>
+ <hr>
 
 <p align="center">
    :trophy: Languages and Tools: :robot:
