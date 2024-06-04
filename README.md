@@ -8,15 +8,10 @@
   
 <p align="center">
   <samp>
-    Feel free to check out my Learning Repo :mag: at https://github.com/LearnWithRohanSikder, Here you can find some of the Tools and Languages I am currently learning and testing.:mortar_board:
+    Feel free to check out my Learning Repo :mag: at https://github.com/LearnWithRohanSikder, Here you can find some of the Tools and Languages I am currently learning and testing.
   </samp> 
 </p>
 
-
-
-<p align="center">
-<img width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-</p>
 
  <hr>
 
